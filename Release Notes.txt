@@ -1,0 +1,14 @@
+Many people have been asking me for this for a long time now, but after 8 grueling months and many 
+setbacks, I am proud to introduce AlbertOS Version 1.0: Deluxe Edition. The Deluxe Edition is a limited 
+edition operating system which comes with the classic game “Othello”, also known as “Reversi”. This 
+game was created by the award-winning genius Sung Min Choi Hong who is currently attending the 
+Illinois Institute of Technology. There are many people who have helped me through this struggle: 
+Cormac O’Brien, Mr. Rogers, Ben Stryker and even Wyatt Richter. But the one person whom I have to 
+thank the most is Kienan Ahner-McHafee. Kienan, despite the stresses of his everyday life, contributed 
+countless hours toward making AlbertOS a reality; with not only his commitment and confidence, but 
+also his expertise in the field. Without further ado, and with great privilege, I introduce to you the first 
+public release of AlbertOS. Before downloading, please note that AlbertOS requires a screen resolution 
+of 1366x768 to operate (the most common resolution on laptops) and the latest version of Java, which 
+can be downloaded for free from java.com. Please contact me if you wish to see the original source code 
+or have any pressing questions, comments, issues, or concerns. Finally, be certain that your sound works,
+sound is very important to the experience. Thank you and enjoy!
